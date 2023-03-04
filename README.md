@@ -1,0 +1,2 @@
+# OgrenciBilgiSistemi
+Öğrenci Not Sistemi
